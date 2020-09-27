@@ -1,11 +1,11 @@
 ---
-baseURL: https://example.com
+baseURL: https://vienna-photoblog.netlify.app
 languageCode: en-us
-title: Hugo Novela
+title: Vienna Photoblog
 pygmentsstyle: monokai
 module:
   imports:
-  - path: github.com/forestryio/hugo-theme-novela
+  - path: github.com/markterpstra/vienna-photoblog
 paginate: 6
 social:
   twitter: "#"
